@@ -4,9 +4,7 @@ If cannot run, Kindly Download & import .jar file from the below link.
  
 http://www.java2s.com/Code/Jar/b/Downloadbouncycastlejar.htm
 
-There is also a Video attached -->"A1_Sample_Run" to show how the program runs. 
-
-- Execute Host.java first   
+- Execute Host.java   
  (Host will automatically used Hash("123456") generate Hashed Password file named "Alice.txt")  
 - For Client, use Correct password = 123456 to Run   
 - Server(Host) is using "localhost" ip address 
